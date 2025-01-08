@@ -6,10 +6,12 @@ This is based on <http://g4m.code4math.org>.
 Test me.
 
 Sink = Commit + Push 
+\\
 Commit & Sync (option allowed only in dev mode)
+\\
 Staging = saving your progress
 
-
+\\ \\
 Cannot run code in dev
 
 Can edit code in regular (?)
